@@ -64,5 +64,5 @@
 
 
 [![Linkedin: pavelkartavenko](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavelkartavenko/)
-[![Website: pavelkartavenko](https://img.shields.io/badge/Website-red?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kartavenkopavel.github.io/)
+[![Website: pavelkartavenko](https://img.shields.io/badge/Website-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kartavenkopavel.github.io/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/pavelkqa)
