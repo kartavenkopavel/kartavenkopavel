@@ -6,6 +6,7 @@
 
 ## My CV :page_with_curl:
 
+<a href="/icons/kartavenko_CV.pdf" download target="_blank">Download my CV</a>
 
 <!--
 **kartavenkopavel/kartavenkopavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
