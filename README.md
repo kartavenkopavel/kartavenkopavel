@@ -1,8 +1,10 @@
-# Hi! 👋
+## Hi! 👋
 
 <p> I am a quality control engineer.  I am the only tester in the company. So I had to set up all the testing processes from scratch. </p>
 <p> My responsibilities include testing and requirements analysis. Assessing the need to change existing functionality to improve the web app. Functional testing, smoke testing and regression testing. Writing bug reports, compiling test documentation. Functional and non-functional testing of Android and iOS mobile apps. Mobile API testing.</p>
 <p> I also set up a test framework for automated testing. My stack is java, maven, testng, selenium. And now I'm developing test automation</p>
+
+## My CV :page_with_curl:
 
 
 <!--
