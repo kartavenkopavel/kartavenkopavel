@@ -11,7 +11,7 @@
 
 ## Tools :gear:
 
-<p align="center">
+<p align="left">
   <a href="https://www.jetbrains.com/idea/">
     <img src="/icons/IntelliJ.png" alt="IntelliJ" width="40" height="40" />
   </a>
@@ -59,17 +59,10 @@
   </a>
  </p>
   
-<!--
-**kartavenkopavel/kartavenkopavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+## Contacts :pushpin:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin: pavelkartavenko](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavelkartavenko/)
+[![Website: pavelkartavenko](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://kartavenkopavel.github.io/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/pavelkqa)
