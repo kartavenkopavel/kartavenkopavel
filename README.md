@@ -63,6 +63,6 @@
 ## :pushpin: Contacts 
 
 
-[![Linkedin: pavelkartavenko](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavelkartavenko/)
-[![Website: pavelkartavenko](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://kartavenkopavel.github.io/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/pavelkqa)
+[![Linkedin: pavelkartavenko](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavelkartavenko/)
+[![Website: pavelkartavenko](https://img.shields.io/badge/Website-red?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kartavenkopavel.github.io/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/pavelkqa)
