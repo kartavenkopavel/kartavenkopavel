@@ -4,7 +4,7 @@
 <p> My responsibilities include testing and requirements analysis. Assessing the need to change existing functionality to improve the web app. Functional testing, smoke testing and regression testing. Writing bug reports, compiling test documentation. Functional and non-functional testing of Android and iOS mobile apps. Mobile API testing.</p>
 <p> I also set up a test framework for automated testing. My stack is java, maven, testng, selenium. And now I'm developing test automation</p>
 
-## :page_with_curl: My CV 
+## :page_with_curl: Resume 
 
 <a href="/icons/kartavenko_CV.pdf" download target="_blank">Look at my CV</a>
 
