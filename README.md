@@ -4,6 +4,16 @@
 <p> My responsibilities include testing and requirements analysis. Assessing the need to change existing functionality to improve the web app. Functional testing, smoke testing and regression testing. Writing bug reports, compiling test documentation. Functional and non-functional testing of Android and iOS mobile apps. Mobile API testing.</p>
 <p> I also set up a test framework for automated testing. My stack is java, maven, testng, selenium. And now I'm developing test automation</p>
 
+## :computer: Experience
+### FindSport (09.2021 - ...)
+<ul>
+  <li>Functional testing and verification of compliance with the documentation of new Web application functionality (smoke, regression, documentation analysis)</li>
+  <li>Functional and non-functional testing of a mobile application for Android and iOS</li>
+  <li>Writing and maintaining test documentation for web and mobile applications</li>
+  <li>Analysis of the introduction of new and assessment of the need to change existing functionality to improve the quality of the web application</li>
+  <li>Compiling bug reports and checking their correction</li>
+</ul>
+
 ## :page_with_curl: Resume 
 
 <a href="/icons/kartavenko_CV.pdf" download target="_blank">Look at my CV</a>
