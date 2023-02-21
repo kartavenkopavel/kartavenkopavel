@@ -6,17 +6,29 @@
 
 ## :computer: Experience
 ### FindSport (09.2021 - ...)
-<ul>
-  <li>Functional testing and verification of compliance with the documentation of new Web application functionality (smoke, regression, documentation analysis)</li>
-  <li>Functional and non-functional testing of a mobile application for Android and iOS</li>
-  <li>Writing and maintaining test documentation for web and mobile applications</li>
-  <li>Analysis of the introduction of new and assessment of the need to change existing functionality to improve the quality of the web application</li>
-  <li>Compiling bug reports and checking their correction</li>
-</ul>
+#### QA Manual/Automation
+
+- [ ] Functional testing and verification of compliance with the documentation of new Web application functionality (smoke, regression, documentation analysis)
+- [ ] Functional and non-functional testing of a mobile application for Android and iOS
+- [ ] Writing and maintaining test documentation for web and mobile applications
+- [ ] Analysis of the introduction of new and assessment of the need to change existing functionality to improve the quality of the web application
+- [ ] Compiling bug reports and checking their correction
+
+
+### RedRoverSchool: training project (11.2022 - ...)
+#### QA Automation Lead
+
+- [ ] Organization of work on the project
+- [ ] Organization of meetings
+- [ ] Setting tasks and monitoring their implementation
+- [ ] Test framework development
+- [ ] [Trianing project code](https://github.com/kartavenkopavel/JenkinsProject)
+
+
 
 ## :page_with_curl: Resume 
 
-<a href="/icons/kartavenko_CV.pdf" download target="_blank">Look at my CV</a>
+- [ ] [Look at my CV](https://github.com/kartavenkopavel/kartavenkopavel/tree/main/icons/kartavenko_CV.pdf)
 
 
 ## :gear: Tools 
