@@ -1,8 +1,10 @@
 ## 👋 Hi there! 
 ### :clipboard: About Me 
-<p> I am a QA engineer. I am the only tester in the company. So I had to set up all the testing processes from scratch. </p>
-<p> My responsibilities include testing and requirements analysis. Assessing the need to change existing functionality to improve the web app. Functional testing, smoke testing and regression testing. Writing bug reports, compiling test documentation. Functional and non-functional testing of Android and iOS mobile apps. Mobile API testing.</p>
-<p> I also set up a test framework for automated testing. My stack is java, maven, testng, selenium. And now I'm developing test automation</p>
+<b> [Look at my CV](https://github.com/kartavenkopavel/kartavenkopavel/tree/main/icons/kartavenko_CV.pdf) </b> :warning:
+
+<p> I am a QA engineer. Established testing processes and procedures from scratch, as the sole tester in the company.</p>
+<p> Conducted requirements analysis and assessed the need to modify existing functionality to improve the web application, functional testing, smoke testing, and regression testing to ensure the quality of the web application. Wrote bug reports and compiled test documentation to communicate defects and issues to the development team. Conducted functional and non-functional testing of Android and iOS mobile applications and mobile API.</p>
+<p> Set up an automated test framework using Java, Selenium, TestNG and Allure to improve efficiency and test coverage. Currently developing automated test scripts to ensure the stability and reliability of the web application.</p> 
 
 ## :computer: Experience
 ### FindSport (09.2021 - ...)
@@ -15,7 +17,7 @@
 * Compiling bug reports and checking their correction
 
 
-### RedRoverSchool: training project (11.2022 - ...)
+### RedRoverSchool: training project (05.11.2022 - 25.03.2023)
 #### QA Automation Lead
 
 * Organization of work on the project
@@ -23,12 +25,6 @@
 * Setting tasks and monitoring their implementation
 * Test framework development
 - [ ] [Trianing project code](https://github.com/kartavenkopavel/JenkinsProject)
-
-
-
-## :page_with_curl: Resume 
-
-- [ ] [Look at my CV](https://github.com/kartavenkopavel/kartavenkopavel/tree/main/icons/kartavenko_CV.pdf)
 
 
 ## :gear: Tools 
