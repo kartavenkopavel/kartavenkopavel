@@ -1,6 +1,6 @@
 ## 👋 Hi there! 
 ### :clipboard: About Me 
-<b> [Look at my CV](https://github.com/kartavenkopavel/kartavenkopavel/tree/main/icons/kartavenko_CV.pdf) </b> :warning:
+<b> [Look at my CV](https://github.com/kartavenkopavel/kartavenkopavel/tree/main/icons/kartavenkopavel_CV.pdf) </b> :warning:
 
 <p> I am a QA engineer. Established testing processes and procedures from scratch, as the sole tester in the company.</p>
 <p> Conducted requirements analysis and assessed the need to modify existing functionality to improve the web application, functional testing, smoke testing, and regression testing to ensure the quality of the web application. Wrote bug reports and compiled test documentation to communicate defects and issues to the development team. Conducted functional and non-functional testing of Android and iOS mobile applications and mobile API.</p>
