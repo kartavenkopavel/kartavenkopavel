@@ -2,9 +2,9 @@
 ### :clipboard: About Me 
 <b> [Look at my CV](https://github.com/kartavenkopavel/kartavenkopavel/tree/main/icons/kartavenkopavel_CV.pdf) </b> :warning:
 
-<p> I am a QA engineer. Established testing processes and procedures from scratch, as the sole tester in the company.</p>
-<p> Conducted requirements analysis and assessed the need to modify existing functionality to improve the web application, functional testing, smoke testing, and regression testing to ensure the quality of the web application. Wrote bug reports and compiled test documentation to communicate defects and issues to the development team. Conducted functional and non-functional testing of Android and iOS mobile applications and mobile API.</p>
-<p> Set up an automated test framework using Java, Selenium, TestNG and Allure to improve efficiency and test coverage. Currently developing automated test scripts to ensure the stability and reliability of the web application.</p> 
+<p> I am a QA engineer. Developed testing processes and procedures from scratch, being the only tester in the company.</p>
+<p> I am conducting an analysis of the requirements and assessed the need to change the existing functionality to improve the web application, functional testing, smoke testing and regression testing to ensure the quality of the web application. I write bug reports and compiled test documentation to report defects and problems to the development team. I conduct functional and non-functional testing of Android and iOS mobile applications and mobile API.</p>
+<p> Configured the testing automation process using Java, Selenium, TestNG and Allure to increase the efficiency and coverage of testing. I am currently developing automated test scenarios to ensure the stability and reliability of a web application.</p> 
 
 ## :computer: Experience
 ### FindSport (09.2021 - ...)
