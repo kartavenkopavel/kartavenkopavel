@@ -7,15 +7,36 @@
 <p> Configured the testing automation process using Java, Selenium, TestNG and Allure to increase the efficiency and coverage of testing. I am currently developing automated test scenarios to ensure the stability and reliability of a web application.</p> 
 
 ## :computer: Experience
-### FindSport (09.2021 - ...)
+### FindSport (09.2021 - Present)
 #### QA Manual/Automation
 
 * Functional testing and verification of compliance with the documentation of new Web application functionality (smoke, regression, documentation analysis)
-* Functional and non-functional testing of a mobile application for Android and iOS
-* Writing and maintaining test documentation for web and mobile applications
+* Writing and maintaining test documentation 
 * Analysis of the introduction of new and assessment of the need to change existing functionality to improve the quality of the web application
 * Compiling bug reports and checking their correction
+* Writing autotests for smoke and regression testing(Java, Selenium)
 
+### FindSpost App (11.2021 - 09.2022)
+#### QA Manual 
+
+* Functional and non-functional testing of android & iOS app
+* Working with proxy tools (Charles)
+* API testing (GraphQL)
+* Writing bug reports
+* Acceptance testing
+* Writing and maintaining test documentation
+
+### Akatos (07.2023 - Present)
+#### QA Manual/Automation
+
+* Functional testing of the front and backend
+* API testing (REST)
+* e2e testing
+* Working with a database (MySQL)
+* Writing bug reports
+* Writing and maintaining test documentation
+* Requirements analysis
+* Writing autotests for smoke testing (Java, Selenium)
 
 ### RedRoverSchool: training project (05.11.2022 - 25.03.2023)
 #### QA Automation Lead
